@@ -62,9 +62,9 @@ function checkForConsonants (word) {
 	return wordArray.join('');
 }
 
-oppish(nas);
-oppish(someArticle);
-oppish('hello');
+// oppish(nas);
+// oppish(someArticle);
+// oppish('hello');
 // oppish('hello');
 
-// module.exports = oppish;
+module.exports = oppish;
